@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="5860" started-at="2021-11-10T12:09:41Z" finished-at="2021-11-10T12:09:47Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="5860" started-at="2021-11-10T12:09:41Z" finished-at="2021-11-10T12:09:47Z">
+      <class name="Tests.TestUserRegisteration">
+        <test-method status="PASS" signature="setup()[pri:0, instance:Tests.TestUserRegisteration@42dafa95]" name="setup" is-config="true" duration-ms="6783" started-at="2021-11-10T14:09:34Z" finished-at="2021-11-10T14:09:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="User_Register_sucess()[pri:0, instance:Tests.TestUserRegisteration@42dafa95]" name="User_Register_sucess" duration-ms="5844" started-at="2021-11-10T14:09:41Z" finished-at="2021-11-10T14:09:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- User_Register_sucess -->
+        <test-method status="PASS" signature="stopDriver()[pri:0, instance:Tests.TestUserRegisteration@42dafa95]" name="stopDriver" is-config="true" duration-ms="1184" started-at="2021-11-10T14:09:47Z" finished-at="2021-11-10T14:09:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stopDriver -->
+      </class> <!-- Tests.TestUserRegisteration -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

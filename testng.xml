@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="nop commerce regsteration Suite" parallel="false">
+  <test name="regression Test">
+    <classes>
+      <class name="Tests.TestUserRegisteration"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
